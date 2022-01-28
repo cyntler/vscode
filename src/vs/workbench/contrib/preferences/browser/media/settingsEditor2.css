@@ -215,10 +215,6 @@
 	display: none;
 }
 
-.settings-editor > .settings-body .settings-toc-container .monaco-scrollable-element > .shadow {
-	display: none;
-}
-
 .settings-editor > .settings-body .settings-toc-container .monaco-list-row .monaco-tl-contents {
 	display: flex;
 }
@@ -332,7 +328,7 @@
 	bottom: 23px;
 }
 
-.settings-editor > .settings-body > .settings-tree-container .setting-item-contents .setting-item-title > .misc-label {
+.settings-editor > .settings-body .settings-tree-container .setting-item-contents .setting-item-title > .misc-label {
 	font-style: italic;
 }
 
